@@ -1,0 +1,3 @@
+To open the app, type the following on your terminal: gradio main.py
+It should give you both a local address and a https address to access the Receipt Reader app. Make sure to download all necessary resources, especially 
+the ones imported in the main.py file. For best results, use either the "Upload Photo" or "Paste from Clipboard" options.
