@@ -1,0 +1,5 @@
+To open the app, type the following on your terminal: gradio main.py
+It should give you both a local address to access the Gradio app. Make sure to download all necessary resources, especially 
+the ones imported in the main.py file.
+
+This is app is made using the YOLOv8 Nano model.
