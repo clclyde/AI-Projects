@@ -1,0 +1,6 @@
+This is an modified version of one of the projects in this repository named the "Receipt Reader using Gradio." In this version, PaddleOCR is combined with 
+Gemini API tomake a Gradio app that scans and analyzes a user-uploaded receipt. Thiss version also has a chatbot wherein the user can ask questions about 
+the current uploaded receipt (e.g. what is the store name, what is the total bill, what is the mode of payment, etc.). 
+
+To run the gradio app, open the file main.ipynb, preferably on Google Colab. Run all code blocks until the last one and click the link displayed after 
+running the final code block.
