@@ -8,4 +8,4 @@ bill? What is the mode of payment?, etc.).
 To run the Gradio app:
 1. Open the file main.ipynb (preferably in Google Colab).
 2. Run all the code cells sequentially.
-3. After the final cell, click the Gradio link that appears to launch the app.
+3. After the final cell, click the public Gradio link that appears to launch the app.
